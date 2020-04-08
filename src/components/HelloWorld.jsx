@@ -1,8 +1,11 @@
 import React from  'react';
+import '../assets/styles/App.scss'
 
 const HelloWorld = () => {
-
-    <h1>HOLA</h1>
+return(
+    <h1>hola chiquita perra</h1>
+    
+)
 };
 
 export default HelloWorld;
